@@ -30,6 +30,7 @@ public class DemoController {
         CheckOrderResp.UserDTO userDTO = new CheckOrderResp.UserDTO();
         userDTO.setPoints(0);
         userDTO.setId("62f0d11f650b74cd5f0d94ee");
+//        userDTO.setEmail("dxw13935741214@gmail.com");
         userDTO.setEmail("c18601974321@gmail.com");
         userDTO.setVipActivated(true);
         userDTO.setRebatePoints(0);
